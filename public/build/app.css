@@ -1,0 +1,14 @@
+body {
+    background-color: #f3dbdb;
+}
+
+.img-thumbnail {
+    object-fit: cover;
+}
+
+
+.form-custom {
+    background: #5eb5e0;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmNzcyIsIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHlCQUF5QjtBQUM3Qjs7QUFFQTtJQUNJLGlCQUFpQjtBQUNyQjs7O0FDTkE7SUFDSSxtQkFBbUI7QUFDdkIsQyIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL2Fzc2V0cy9zdHlsZXMvYXBwLmNzcyIsIndlYnBhY2s6Ly8vLi9hc3NldHMvc3R5bGVzL2Zvcm0uY3NzIl0sInNvdXJjZXNDb250ZW50IjpbImJvZHkge1xuICAgIGJhY2tncm91bmQtY29sb3I6ICNmM2RiZGI7XG59XG5cbi5pbWctdGh1bWJuYWlsIHtcbiAgICBvYmplY3QtZml0OiBjb3Zlcjtcbn1cblxuIiwiLmZvcm0tY3VzdG9tIHtcbiAgICBiYWNrZ3JvdW5kOiAjNWViNWUwO1xufSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/
